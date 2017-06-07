@@ -1,11 +1,15 @@
 ## Constants & Variables
 
-'''swift
-
+```swift
 var s1 = "Hello, "
 let s2 = "World!"
+```
 
-'''
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+
+
 var for mutable, you can change s1
 let for immutable, you can not change s2
 
