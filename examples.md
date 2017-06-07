@@ -1,8 +1,10 @@
 ## Constants & Variables
 
 '''swift
+
 var s1 = "Hello, "
 let s2 = "World!"
+
 '''
 var for mutable, you can change s1
 let for immutable, you can not change s2
